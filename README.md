@@ -1,6 +1,6 @@
 # ctydat-entitycode
 
-This repository contains conversion key-value table implementations betweem CTY.DAT Main Prefixes and ARRL DXCC Entity Codes.
+This repository contains conversion key-value table implementations between CTY.DAT Main Prefixes and ARRL DXCC Entity Codes.
 
 All contents are manually verified by the author with the following files:
 
@@ -13,7 +13,9 @@ For reporting the errors, use [the GitHub Issues of the repository](https://gith
 
 ## History
 
-`prefix_to_entitycode.pl` is a part of [jj1bdx/dj1yfk-dxcc](https://github.com/jj1bdx/dj1yfk-dxcc/), extracted from the file `dxcc`.
+* `prefix_to_entitycode.pl` is a part of [jj1bdx/dj1yfk-dxcc](https://github.com/jj1bdx/dj1yfk-dxcc/), extracted from the file `dxcc`.
+* `prefix_to_entitycode.txt` is manually edited from the `prefix_to_entitycode.pl`.
+* All the other files are generated from `prefix_to_entitycode.txt` by `generation-script.sh`.
 
 ## Author
 
