@@ -9,7 +9,7 @@ All contents are manually verified by the author with the following files:
 
 ## Bug reporting
 
-For reporting the errors, use [the GitHub Issues of the repository]().
+For reporting the errors, use [the GitHub Issues of the repository](https://github.com/jj1bdx/ctydat-entitycode/issues).
 
 ## History
 
