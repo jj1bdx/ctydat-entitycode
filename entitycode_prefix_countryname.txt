@@ -1,0 +1,340 @@
+1  | VE  |  Canada
+3  | YA  |  Afghanistan
+4  | 3B6  |  Agalega & St. Brandon
+5  | OH0  |  Aland Islands
+6  | KL  |  Alaska
+7  | ZA  |  Albania
+9  | KH8  |  American Samoa
+10  | FT/z  |  Amsterdam & St. Paul Is.
+11  | VU4  |  Andaman & Nicobar Is.
+12  | VP2E  |  Anguilla
+13  | CE9  |  Antarctica
+14  | EK  |  Armenia
+15  | UA9  |  Asiatic Russia
+16  | ZL9  |  N.Z. Subantarctic Is.
+17  | YV0  |  Aves Island
+18  | 4J  |  Azerbaijan
+20  | KH1  |  Baker & Howland Islands
+21  | EA6  |  Balearic Islands
+22  | T8  |  Palau
+24  | 3Y/b  |  Bouvet
+27  | EU  |  Belarus
+29  | EA8  |  Canary Islands
+31  | T31  |  Central Kiribati
+32  | EA9  |  Ceuta & Melilla
+33  | VQ9  |  Chagos Islands
+34  | ZL7  |  Chatham Islands
+35  | VK9X  |  Christmas Island
+36  | FO/c  |  Clipperton Island
+37  | TI9  |  Cocos Island
+38  | VK9C  |  Cocos (Keeling) Islands
+40  | SV9  |  Crete
+41  | FT/w  |  Crozet Island
+43  | KP5  |  Desecheo Island
+45  | SV5  |  Dodecanese
+46  | 9M6  |  East Malaysia
+47  | CE0Y  |  Easter Island
+48  | T32  |  Eastern Kiribati
+49  | 3C  |  Equatorial Guinea
+50  | XE  |  Mexico
+51  | E3  |  Eritrea
+52  | ES  |  Estonia
+53  | ET  |  Ethiopia
+54  | UA  |  European Russia
+56  | PY0F  |  Fernando de Noronha
+60  | C6  |  Bahamas
+61  | R1FJ  |  Franz Josef Land
+62  | 8P  |  Barbados
+63  | FY  |  French Guiana
+64  | VP9  |  Bermuda
+65  | VP2V  |  British Virgin Islands
+66  | V3  |  Belize
+69  | ZF  |  Cayman Islands
+70  | CM  |  Cuba
+71  | HC8  |  Galapagos Islands
+72  | HI  |  Dominican Republic
+74  | YS  |  El Salvador
+75  | 4L  |  Georgia
+76  | TG  |  Guatemala
+77  | J3  |  Grenada
+78  | HH  |  Haiti
+79  | FG  |  Guadeloupe
+80  | HR  |  Honduras
+82  | 6Y  |  Jamaica
+84  | FM  |  Martinique
+86  | YN  |  Nicaragua
+88  | HP  |  Panama
+89  | VP5  |  Turks & Caicos Islands
+90  | 9Y  |  Trinidad & Tobago
+91  | P4  |  Aruba
+94  | V2  |  Antigua & Barbuda
+95  | J7  |  Dominica
+96  | VP2M  |  Montserrat
+97  | J6  |  St. Lucia
+98  | J8  |  St. Vincent
+99  | FT/g  |  Glorioso Islands
+100  | LU  |  Argentina
+103  | KH2  |  Guam
+104  | CP  |  Bolivia
+105  | KG4  |  Guantanamo Bay
+106  | GU  |  Guernsey
+107  | 3X  |  Guinea
+108  | PY  |  Brazil
+109  | J5  |  Guinea-Bissau
+110  | KH6  |  Hawaii
+111  | VK0H  |  Heard Island
+112  | CE  |  Chile
+114  | GD  |  Isle of Man
+116  | HK  |  Colombia
+117  | 4U1I  |  ITU HQ
+118  | JX  |  Jan Mayen
+120  | HC  |  Ecuador
+122  | GJ  |  Jersey
+123  | KH3  |  Johnston Island
+124  | FT/j  |  Juan de Nova, Europa
+125  | CE0Z  |  Juan Fernandez Islands
+126  | UA2  |  Kaliningrad
+129  | 8R  |  Guyana
+130  | UN  |  Kazakhstan
+131  | FT/x  |  Kerguelen Islands
+132  | ZP  |  Paraguay
+133  | ZL8  |  Kermadec Islands
+135  | EX  |  Kyrgyzstan
+136  | OA  |  Peru
+137  | HL  |  Republic of Korea
+138  | KH7K  |  Kure Island
+140  | PZ  |  Suriname
+141  | VP8  |  Falkland Islands
+142  | VU7  |  Lakshadweep Islands
+143  | XW  |  Laos
+144  | CX  |  Uruguay
+145  | YL  |  Latvia
+146  | LY  |  Lithuania
+147  | VK9L  |  Lord Howe Island
+148  | YV  |  Venezuela
+149  | CU  |  Azores
+150  | VK  |  Australia
+152  | XX9  |  Macao
+153  | VK0M  |  Macquarie Island
+157  | C2  |  Nauru
+158  | YJ  |  Vanuatu
+159  | 8Q  |  Maldives
+160  | A3  |  Tonga
+161  | HK0/m  |  Malpelo Island
+162  | FK  |  New Caledonia
+163  | P2  |  Papua New Guinea
+165  | 3B8  |  Mauritius
+166  | KH0  |  Mariana Islands
+167  | OJ0  |  Market Reef
+168  | V7  |  Marshall Islands
+169  | FH  |  Mayotte
+170  | ZL  |  New Zealand
+171  | VK9M  |  Mellish Reef
+172  | VP6  |  Pitcairn Island
+173  | V6  |  Micronesia
+174  | KH4  |  Midway Island
+175  | FO  |  French Polynesia
+176  | 3D2  |  Fiji
+177  | JD/m  |  Minami Torishima
+179  | ER  |  Moldova
+180  | SV/a  |  Mount Athos
+181  | C9  |  Mozambique
+182  | KP1  |  Navassa Island
+185  | H4  |  Solomon Islands
+187  | 5U  |  Niger
+188  | E6  |  Niue
+189  | VK9N  |  Norfolk Island
+190  | 5W  |  Samoa
+191  | E5/n  |  North Cook Islands
+192  | JD/o  |  Ogasawara
+195  | 3C0  |  Annobon Island
+197  | KH5  |  Palmyra & Jarvis Islands
+199  | 3Y/p  |  Peter 1 Island
+201  | ZS8  |  Pr. Edward & Marion Is.
+202  | KP4  |  Puerto Rico
+203  | C3  |  Andorra
+204  | XF4  |  Revillagigedo
+205  | ZD8  |  Ascension Island
+206  | OE  |  Austria
+207  | 3B9  |  Rodriguez Island
+209  | ON  |  Belgium
+211  | CY0  |  Sable Island
+212  | LZ  |  Bulgaria
+213  | FS  |  St. Martin
+214  | TK  |  Corsica
+215  | 5B  |  Cyprus
+216  | HK0/a  |  San Andres & Providencia
+217  | CE0X  |  San Felix & San Ambrosio
+219  | S9  |  Sao Tome & Principe
+221  | OZ  |  Denmark
+222  | OY  |  Faroe Islands
+223  | G  |  England
+224  | OH  |  Finland
+225  | IS  |  Sardinia
+227  | F  |  France
+230  | DL  |  Fed. Rep. of Germany
+232  | T5  |  Somalia
+233  | ZB  |  Gibraltar
+234  | E5/s  |  South Cook Islands
+235  | VP8/g  |  South Georgia Island
+236  | SV  |  Greece
+237  | OX  |  Greenland
+238  | VP8/o  |  South Orkney Islands
+239  | HA  |  Hungary
+240  | VP8/s  |  South Sandwich Islands
+241  | VP8/h  |  South Shetland Islands
+242  | TF  |  Iceland
+245  | EI  |  Ireland
+246  | 1A  |  Sov Mil Order of Malta
+247  | 1S  |  Spratly Islands
+248  | I  |  Italy
+249  | V4  |  St. Kitts & Nevis
+250  | ZD7  |  St. Helena
+251  | HB0  |  Liechtenstein
+252  | CY9  |  St. Paul Island
+253  | PY0S  |  St. Peter & St. Paul
+254  | LX  |  Luxembourg
+256  | CT3  |  Madeira Islands
+257  | 9H  |  Malta
+259  | JW  |  Svalbard
+260  | 3A  |  Monaco
+262  | EY  |  Tajikistan
+263  | PA  |  Netherlands
+265  | GI  |  Northern Ireland
+266  | LA  |  Norway
+269  | SP  |  Poland
+270  | ZK3  |  Tokelau Islands
+272  | CT  |  Portugal
+273  | PY0T  |  Trindade & Martim Vaz
+274  | ZD9  |  Tristan da Cunha & Gough
+275  | YO  |  Romania
+276  | FT/t  |  Tromelin Island
+277  | FP  |  St. Pierre & Miquelon
+278  | T7  |  San Marino
+279  | GM  |  Scotland
+280  | EZ  |  Turkmenistan
+281  | EA  |  Spain
+282  | T2  |  Tuvalu
+283  | ZC4  |  UK Base Areas on Cyprus
+284  | SM  |  Sweden
+285  | KP2  |  US Virgin Islands
+286  | 5X  |  Uganda
+287  | HB  |  Switzerland
+288  | UR  |  Ukraine
+289  | 4U1U  |  United Nations HQ
+291  | K  |  United States
+292  | UK  |  Uzbekistan
+293  | 3W  |  Vietnam
+294  | GW  |  Wales
+295  | HV  |  Vatican City
+296  | YU  |  Serbia
+297  | KH9  |  Wake Island
+298  | FW  |  Wallis & Futuna Islands
+299  | 9M2  |  West Malaysia
+301  | T30  |  Western Kiribati
+302  | S0  |  Western Sahara
+303  | VK9W  |  Willis Island
+304  | A9  |  Bahrain
+305  | S2  |  Bangladesh
+306  | A5  |  Bhutan
+308  | TI  |  Costa Rica
+309  | XZ  |  Myanmar
+312  | XU  |  Cambodia
+315  | 4S  |  Sri Lanka
+318  | BY  |  China
+321  | VR  |  Hong Kong
+324  | VU  |  India
+327  | YB  |  Indonesia
+330  | EP  |  Iran
+333  | YI  |  Iraq
+336  | 4X  |  Israel
+339  | JA  |  Japan
+342  | JY  |  Jordan
+344  | P5  |  DPR of Korea
+345  | V8  |  Brunei Darussalam
+348  | 9K  |  Kuwait
+354  | OD  |  Lebanon
+363  | JT  |  Mongolia
+369  | 9N  |  Nepal
+370  | A4  |  Oman
+372  | AP  |  Pakistan
+375  | DU  |  Philippines
+376  | A7  |  Qatar
+378  | HZ  |  Saudi Arabia
+379  | S7  |  Seychelles
+381  | 9V  |  Singapore
+382  | J2  |  Djibouti
+384  | YK  |  Syria
+386  | BV  |  Taiwan
+387  | HS  |  Thailand
+390  | TA  |  Asiatic Turkey
+391  | A6  |  United Arab Emirates
+400  | 7X  |  Algeria
+401  | D2  |  Angola
+402  | A2  |  Botswana
+404  | 9U  |  Burundi
+406  | TJ  |  Cameroon
+408  | TL  |  Central African Republic
+409  | D4  |  Cape Verde
+410  | TT  |  Chad
+411  | D6  |  Comoros
+412  | TN  |  Republic of the Congo
+414  | 9Q  |  Dem. Rep. of the Congo
+416  | TY  |  Benin
+420  | TR  |  Gabon
+422  | C5  |  The Gambia
+424  | 9G  |  Ghana
+428  | TU  |  Cote d'Ivoire
+430  | 5Z  |  Kenya
+432  | 7P  |  Lesotho
+434  | EL  |  Liberia
+436  | 5A  |  Libya
+438  | 5R  |  Madagascar
+440  | 7Q  |  Malawi
+442  | TZ  |  Mali
+444  | 5T  |  Mauritania
+446  | CN  |  Morocco
+450  | 5N  |  Nigeria
+452  | Z2  |  Zimbabwe
+453  | FR  |  Reunion Island
+454  | 9X  |  Rwanda
+456  | 6W  |  Senegal
+458  | 9L  |  Sierra Leone
+460  | 3D2/r  |  Rotuma Island
+462  | ZS  |  South Africa
+464  | V5  |  Namibia
+466  | ST  |  Sudan
+468  | 3DA  |  Kingdom of Eswatini
+470  | 5H  |  Tanzania
+474  | 3V  |  Tunisia
+478  | SU  |  Egypt
+480  | XT  |  Burkina Faso
+482  | 9J  |  Zambia
+483  | 5V  |  Togo
+489  | 3D2/c  |  Conway Reef
+490  | T33  |  Banaba Island
+492  | 7O  |  Yemen
+497  | 9A  |  Croatia
+499  | S5  |  Slovenia
+501  | E7  |  Bosnia-Herzegovina
+502  | Z3  |  North Macedonia
+503  | OK  |  Czech Republic
+504  | OM  |  Slovak Republic
+505  | BV9P  |  Pratas Island
+506  | BS7  |  Scarborough Reef
+507  | H40  |  Temotu Province
+508  | FO/a  |  Austral Islands
+509  | FO/m  |  Marquesas Islands
+510  | E4  |  Palestine
+511  | 4W  |  Timor - Leste
+512  | FK/c  |  Chesterfield Islands
+513  | VP6/d  |  Ducie Island
+514  | 4O  |  Montenegro
+515  | KH8/s  |  Swains Island
+516  | FJ  |  St. Barthelemy
+517  | PJ2  |  Curacao
+518  | PJ7  |  Sint Maarten
+519  | PJ5  |  Saba & St. Eustatius
+520  | PJ4  |  Bonaire
+521  | Z8  |  Republic of South Sudan
+522  | Z6  |  Republic of Kosovo

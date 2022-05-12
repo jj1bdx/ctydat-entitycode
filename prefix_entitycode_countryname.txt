@@ -1,0 +1,340 @@
+1A | 246 | Sov Mil Order of Malta
+1S | 247 | Spratly Islands
+3A | 260 | Monaco
+3B6 | 4 | Agalega & St. Brandon
+3B8 | 165 | Mauritius
+3B9 | 207 | Rodriguez Island
+3C | 49 | Equatorial Guinea
+3C0 | 195 | Annobon Island
+3D2 | 176 | Fiji
+3D2/c | 489 | Conway Reef
+3D2/r | 460 | Rotuma Island
+3DA | 468 | Kingdom of Eswatini
+3V | 474 | Tunisia
+3W | 293 | Vietnam
+3X | 107 | Guinea
+3Y/b | 24 | Bouvet
+3Y/p | 199 | Peter 1 Island
+4J | 18 | Azerbaijan
+4L | 75 | Georgia
+4O | 514 | Montenegro
+4S | 315 | Sri Lanka
+4U1I | 117 | ITU HQ
+4U1U | 289 | United Nations HQ
+4W | 511 | Timor - Leste
+4X | 336 | Israel
+5A | 436 | Libya
+5B | 215 | Cyprus
+5H | 470 | Tanzania
+5N | 450 | Nigeria
+5R | 438 | Madagascar
+5T | 444 | Mauritania
+5U | 187 | Niger
+5V | 483 | Togo
+5W | 190 | Samoa
+5X | 286 | Uganda
+5Z | 430 | Kenya
+6W | 456 | Senegal
+6Y | 82 | Jamaica
+7O | 492 | Yemen
+7P | 432 | Lesotho
+7Q | 440 | Malawi
+7X | 400 | Algeria
+8P | 62 | Barbados
+8Q | 159 | Maldives
+8R | 129 | Guyana
+9A | 497 | Croatia
+9G | 424 | Ghana
+9H | 257 | Malta
+9J | 482 | Zambia
+9K | 348 | Kuwait
+9L | 458 | Sierra Leone
+9M2 | 299 | West Malaysia
+9M6 | 46 | East Malaysia
+9N | 369 | Nepal
+9Q | 414 | Dem. Rep. of the Congo
+9U | 404 | Burundi
+9V | 381 | Singapore
+9X | 454 | Rwanda
+9Y | 90 | Trinidad & Tobago
+A2 | 402 | Botswana
+A3 | 160 | Tonga
+A4 | 370 | Oman
+A5 | 306 | Bhutan
+A6 | 391 | United Arab Emirates
+A7 | 376 | Qatar
+A9 | 304 | Bahrain
+AP | 372 | Pakistan
+BS7 | 506 | Scarborough Reef
+BV | 386 | Taiwan
+BV9P | 505 | Pratas Island
+BY | 318 | China
+C2 | 157 | Nauru
+C3 | 203 | Andorra
+C5 | 422 | The Gambia
+C6 | 60 | Bahamas
+C9 | 181 | Mozambique
+CE | 112 | Chile
+CE0X | 217 | San Felix & San Ambrosio
+CE0Y | 47 | Easter Island
+CE0Z | 125 | Juan Fernandez Islands
+CE9 | 13 | Antarctica
+CM | 70 | Cuba
+CN | 446 | Morocco
+CP | 104 | Bolivia
+CT | 272 | Portugal
+CT3 | 256 | Madeira Islands
+CU | 149 | Azores
+CX | 144 | Uruguay
+CY0 | 211 | Sable Island
+CY9 | 252 | St. Paul Island
+D2 | 401 | Angola
+D4 | 409 | Cape Verde
+D6 | 411 | Comoros
+DL | 230 | Fed. Rep. of Germany
+DU | 375 | Philippines
+E3 | 51 | Eritrea
+E4 | 510 | Palestine
+E5/n | 191 | North Cook Islands
+E5/s | 234 | South Cook Islands
+E6 | 188 | Niue
+E7 | 501 | Bosnia-Herzegovina
+EA | 281 | Spain
+EA6 | 21 | Balearic Islands
+EA8 | 29 | Canary Islands
+EA9 | 32 | Ceuta & Melilla
+EI | 245 | Ireland
+EK | 14 | Armenia
+EL | 434 | Liberia
+EP | 330 | Iran
+ER | 179 | Moldova
+ES | 52 | Estonia
+ET | 53 | Ethiopia
+EU | 27 | Belarus
+EX | 135 | Kyrgyzstan
+EY | 262 | Tajikistan
+EZ | 280 | Turkmenistan
+F | 227 | France
+FG | 79 | Guadeloupe
+FH | 169 | Mayotte
+FJ | 516 | St. Barthelemy
+FK | 162 | New Caledonia
+FK/c | 512 | Chesterfield Islands
+FM | 84 | Martinique
+FO | 175 | French Polynesia
+FO/a | 508 | Austral Islands
+FO/c | 36 | Clipperton Island
+FO/m | 509 | Marquesas Islands
+FP | 277 | St. Pierre & Miquelon
+FR | 453 | Reunion Island
+FS | 213 | St. Martin
+FT/g | 99 | Glorioso Islands
+FT/j | 124 | Juan de Nova, Europa
+FT/t | 276 | Tromelin Island
+FT/w | 41 | Crozet Island
+FT/x | 131 | Kerguelen Islands
+FT/z | 10 | Amsterdam & St. Paul Is.
+FW | 298 | Wallis & Futuna Islands
+FY | 63 | French Guiana
+G | 223 | England
+GD | 114 | Isle of Man
+GI | 265 | Northern Ireland
+GJ | 122 | Jersey
+GM | 279 | Scotland
+GU | 106 | Guernsey
+GW | 294 | Wales
+H4 | 185 | Solomon Islands
+H40 | 507 | Temotu Province
+HA | 239 | Hungary
+HB | 287 | Switzerland
+HB0 | 251 | Liechtenstein
+HC | 120 | Ecuador
+HC8 | 71 | Galapagos Islands
+HH | 78 | Haiti
+HI | 72 | Dominican Republic
+HK | 116 | Colombia
+HK0/a | 216 | San Andres & Providencia
+HK0/m | 161 | Malpelo Island
+HL | 137 | Republic of Korea
+HP | 88 | Panama
+HR | 80 | Honduras
+HS | 387 | Thailand
+HV | 295 | Vatican City
+HZ | 378 | Saudi Arabia
+I | 248 | Italy
+IS | 225 | Sardinia
+J2 | 382 | Djibouti
+J3 | 77 | Grenada
+J5 | 109 | Guinea-Bissau
+J6 | 97 | St. Lucia
+J7 | 95 | Dominica
+J8 | 98 | St. Vincent
+JA | 339 | Japan
+JD/m | 177 | Minami Torishima
+JD/o | 192 | Ogasawara
+JT | 363 | Mongolia
+JW | 259 | Svalbard
+JX | 118 | Jan Mayen
+JY | 342 | Jordan
+K | 291 | United States
+KG4 | 105 | Guantanamo Bay
+KH0 | 166 | Mariana Islands
+KH1 | 20 | Baker & Howland Islands
+KH2 | 103 | Guam
+KH3 | 123 | Johnston Island
+KH4 | 174 | Midway Island
+KH5 | 197 | Palmyra & Jarvis Islands
+KH6 | 110 | Hawaii
+KH7K | 138 | Kure Island
+KH8 | 9 | American Samoa
+KH8/s | 515 | Swains Island
+KH9 | 297 | Wake Island
+KL | 6 | Alaska
+KP1 | 182 | Navassa Island
+KP2 | 285 | US Virgin Islands
+KP4 | 202 | Puerto Rico
+KP5 | 43 | Desecheo Island
+LA | 266 | Norway
+LU | 100 | Argentina
+LX | 254 | Luxembourg
+LY | 146 | Lithuania
+LZ | 212 | Bulgaria
+OA | 136 | Peru
+OD | 354 | Lebanon
+OE | 206 | Austria
+OH | 224 | Finland
+OH0 | 5 | Aland Islands
+OJ0 | 167 | Market Reef
+OK | 503 | Czech Republic
+OM | 504 | Slovak Republic
+ON | 209 | Belgium
+OX | 237 | Greenland
+OY | 222 | Faroe Islands
+OZ | 221 | Denmark
+P2 | 163 | Papua New Guinea
+P4 | 91 | Aruba
+P5 | 344 | DPR of Korea
+PA | 263 | Netherlands
+PJ2 | 517 | Curacao
+PJ4 | 520 | Bonaire
+PJ5 | 519 | Saba & St. Eustatius
+PJ7 | 518 | Sint Maarten
+PY | 108 | Brazil
+PY0F | 56 | Fernando de Noronha
+PY0S | 253 | St. Peter & St. Paul
+PY0T | 273 | Trindade & Martim Vaz
+PZ | 140 | Suriname
+R1FJ | 61 | Franz Josef Land
+S0 | 302 | Western Sahara
+S2 | 305 | Bangladesh
+S5 | 499 | Slovenia
+S7 | 379 | Seychelles
+S9 | 219 | Sao Tome & Principe
+SM | 284 | Sweden
+SP | 269 | Poland
+ST | 466 | Sudan
+SU | 478 | Egypt
+SV | 236 | Greece
+SV/a | 180 | Mount Athos
+SV5 | 45 | Dodecanese
+SV9 | 40 | Crete
+T2 | 282 | Tuvalu
+T30 | 301 | Western Kiribati
+T31 | 31 | Central Kiribati
+T32 | 48 | Eastern Kiribati
+T33 | 490 | Banaba Island
+T5 | 232 | Somalia
+T7 | 278 | San Marino
+T8 | 22 | Palau
+TA | 390 | Asiatic Turkey
+TF | 242 | Iceland
+TG | 76 | Guatemala
+TI | 308 | Costa Rica
+TI9 | 37 | Cocos Island
+TJ | 406 | Cameroon
+TK | 214 | Corsica
+TL | 408 | Central African Republic
+TN | 412 | Republic of the Congo
+TR | 420 | Gabon
+TT | 410 | Chad
+TU | 428 | Cote d'Ivoire
+TY | 416 | Benin
+TZ | 442 | Mali
+UA | 54 | European Russia
+UA2 | 126 | Kaliningrad
+UA9 | 15 | Asiatic Russia
+UK | 292 | Uzbekistan
+UN | 130 | Kazakhstan
+UR | 288 | Ukraine
+V2 | 94 | Antigua & Barbuda
+V3 | 66 | Belize
+V4 | 249 | St. Kitts & Nevis
+V5 | 464 | Namibia
+V6 | 173 | Micronesia
+V7 | 168 | Marshall Islands
+V8 | 345 | Brunei Darussalam
+VE | 1 | Canada
+VK | 150 | Australia
+VK0H | 111 | Heard Island
+VK0M | 153 | Macquarie Island
+VK9C | 38 | Cocos (Keeling) Islands
+VK9L | 147 | Lord Howe Island
+VK9M | 171 | Mellish Reef
+VK9N | 189 | Norfolk Island
+VK9W | 303 | Willis Island
+VK9X | 35 | Christmas Island
+VP2E | 12 | Anguilla
+VP2M | 96 | Montserrat
+VP2V | 65 | British Virgin Islands
+VP5 | 89 | Turks & Caicos Islands
+VP6 | 172 | Pitcairn Island
+VP6/d | 513 | Ducie Island
+VP8 | 141 | Falkland Islands
+VP8/g | 235 | South Georgia Island
+VP8/h | 241 | South Shetland Islands
+VP8/o | 238 | South Orkney Islands
+VP8/s | 240 | South Sandwich Islands
+VP9 | 64 | Bermuda
+VQ9 | 33 | Chagos Islands
+VR | 321 | Hong Kong
+VU | 324 | India
+VU4 | 11 | Andaman & Nicobar Is.
+VU7 | 142 | Lakshadweep Islands
+XE | 50 | Mexico
+XF4 | 204 | Revillagigedo
+XT | 480 | Burkina Faso
+XU | 312 | Cambodia
+XW | 143 | Laos
+XX9 | 152 | Macao
+XZ | 309 | Myanmar
+YA | 3 | Afghanistan
+YB | 327 | Indonesia
+YI | 333 | Iraq
+YJ | 158 | Vanuatu
+YK | 384 | Syria
+YL | 145 | Latvia
+YN | 86 | Nicaragua
+YO | 275 | Romania
+YS | 74 | El Salvador
+YU | 296 | Serbia
+YV | 148 | Venezuela
+YV0 | 17 | Aves Island
+Z2 | 452 | Zimbabwe
+Z3 | 502 | North Macedonia
+Z6 | 522 | Republic of Kosovo
+Z8 | 521 | Republic of South Sudan
+ZA | 7 | Albania
+ZB | 233 | Gibraltar
+ZC4 | 283 | UK Base Areas on Cyprus
+ZD7 | 250 | St. Helena
+ZD8 | 205 | Ascension Island
+ZD9 | 274 | Tristan da Cunha & Gough
+ZF | 69 | Cayman Islands
+ZK3 | 270 | Tokelau Islands
+ZL | 170 | New Zealand
+ZL7 | 34 | Chatham Islands
+ZL8 | 133 | Kermadec Islands
+ZL9 | 16 | N.Z. Subantarctic Is.
+ZP | 132 | Paraguay
+ZS | 462 | South Africa
+ZS8 | 201 | Pr. Edward & Marion Is.
